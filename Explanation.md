@@ -5,7 +5,7 @@
 
 ## Lane Detection Pipeline:
 ### Convert original image to Grayscale.
-![Grayscale](/image_output/Gray_solidWhiteRight.jpg)
+![Grayscale](/images_output/Gray_solidWhiteRight.jpg)
 ### Darkened the gray scale image.
 ### Convert original image to HLS colour space.
 ### Isolate yellow from HLS to get yellow mask (for yellow lane marking).
